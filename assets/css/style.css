@@ -10,6 +10,10 @@
     background-color: #fff;
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -47,7 +51,7 @@ h1,h2,h3,h4 {
 }
 
 .row-table {
-    display: table;
+    display: table;/* Are we keeping this because we deleated the class in the html ????? */
 }
 
 .section-column {
